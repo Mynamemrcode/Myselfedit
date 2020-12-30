@@ -1,0 +1,12 @@
+img
+{
+    width:150px;
+    height:150px;
+}
+
+body
+{
+    text-align:center;
+    background-color:darkgoldenrod;
+    background: linear-gradient(#FFFACD 0%, #b8860b 100%);
+}
